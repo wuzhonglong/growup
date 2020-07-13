@@ -1,0 +1,7 @@
+
+#日志文件输出地址
+#logback:
+#  path: classpath:/log
+#  path: E:\cdzs-workspace\wl_big_data\wzl-config\src\main\resources\log
+wifi:
+  server: http://221.7.105.6:1002/

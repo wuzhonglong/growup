@@ -1,0 +1,13 @@
+2020-04-15 08:49:21.116 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-15 08:49:29.417 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=381888da-2349-37c8-9524-578050ff9c84
+2020-04-15 08:49:33.308 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-15 08:49:33.355 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-15 08:49:35.370 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-15 08:49:36.870 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-15 08:49:37.464 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-15 08:49:45.012 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-15 08:49:47.408 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-15 08:49:47.721 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-15 08:49:48.768 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 37.873 seconds (JVM running for 43.759)
+2020-04-15 08:49:50.018 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-15 08:49:50.018 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,20 @@
+2020-06-11 09:50:48 [main] INFO  com.wisesoft.cdfyshow.CdfyShowApplication - Starting CdfyShowApplication on DESKTOP-6GTNQMT with PID 9172 (E:\cdzs-workspace\com.wisesoft.cdfyshow\target\classes started by lenovo in E:\cdzs-workspace\com.wisesoft.cdfyshow)
+2020-06-11 09:50:48 [main] INFO  com.wisesoft.cdfyshow.CdfyShowApplication - The following profiles are active: test
+2020-06-11 09:51:53 [main] INFO  com.wisesoft.cdfyshow.CdfyShowApplication - Starting CdfyShowApplication on DESKTOP-6GTNQMT with PID 744 (E:\cdzs-workspace\com.wisesoft.cdfyshow\target\classes started by lenovo in E:\cdzs-workspace\com.wisesoft.cdfyshow)
+2020-06-11 09:51:54 [main] INFO  com.wisesoft.cdfyshow.CdfyShowApplication - The following profiles are active: test
+2020-06-11 09:51:59 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 17777 (http)
+2020-06-11 09:51:59 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-17777"]
+2020-06-11 09:51:59 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-11 09:51:59 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-11 09:51:59 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/cdfyshow] - Initializing Spring embedded WebApplicationContext
+2020-06-11 09:51:59 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5789 ms
+2020-06-11 09:52:03 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-11 09:52:05 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-17777"]
+2020-06-11 09:52:05 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 17777 (http) with context path '/cdfyshow'
+2020-06-11 09:52:05 [main] INFO  com.wisesoft.cdfyshow.CdfyShowApplication - Started CdfyShowApplication in 15.283 seconds (JVM running for 20.119)
+2020-06-11 09:52:17 [http-nio-17777-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/cdfyshow] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-11 09:52:17 [http-nio-17777-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-11 09:52:17 [http-nio-17777-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 89 ms
+2020-06-11 09:52:18 [http-nio-17777-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-06-11 09:55:14 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-11 09:55:15 [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

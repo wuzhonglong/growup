@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: test
+logging:
+  file:
+    path: logback-spring.xml

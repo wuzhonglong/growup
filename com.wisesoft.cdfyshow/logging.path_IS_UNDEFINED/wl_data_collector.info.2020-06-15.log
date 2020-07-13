@@ -1,0 +1,37 @@
+2020-06-15 18:14:35 [main] INFO  com.wisesoft.cdfyshow.CdfyShowApplication - Starting CdfyShowApplication on DESKTOP-6GTNQMT with PID 16888 (E:\cdzs-wzl-growup\com.wisesoft.cdfyshow\target\classes started by lenovo in E:\cdzs-wzl-growup\com.wisesoft.cdfyshow)
+2020-06-15 18:14:35 [main] INFO  com.wisesoft.cdfyshow.CdfyShowApplication - The following profiles are active: test
+2020-06-15 18:14:57 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6637061b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-06-15 18:14:57 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.hateoas.config.HateoasConfiguration' of type [org.springframework.hateoas.config.HateoasConfiguration$$EnhancerBySpringCGLIB$$e5b7534d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-06-15 18:15:11 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 17777 (http)
+2020-06-15 18:15:12 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-17777"]
+2020-06-15 18:15:12 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-15 18:15:12 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.12
+2020-06-15 18:15:13 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\VMware\xftp\;D:\VMware\xshell\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\bin;C:\Program Files\TortoiseGit\bin;E:\maven\apache-maven-3.6.1\bin;C:\Program Files\erl10.4\bin;D:\Program Files\rabbitmq_server-3.7.7\sbin;C:\Program Files\TortoiseSVN\bin;C:\Users\lenovo\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5\bin;;.]
+2020-06-15 18:15:21 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/cdfyshow] - Initializing Spring embedded WebApplicationContext
+2020-06-15 18:15:21 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 43952 ms
+2020-06-15 18:15:26 [main] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2020-06-15 18:15:26 [main] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Servlet statViewServlet mapped to [/druid/*]
+2020-06-15 18:15:26 [main] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-06-15 18:15:26 [main] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-06-15 18:15:26 [main] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'formContentFilter' to: [/*]
+2020-06-15 18:15:26 [main] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2020-06-15 18:15:26 [main] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'webStatFilter' to urls: [/*]
+2020-06-15 18:15:32 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-15 18:15:34 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-06-15 18:15:34 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 2 custom documentation plugin(s)
+2020-06-15 18:15:34 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-06-15 18:15:34 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-06-15 18:15:34 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader - Coercing to be of type string. This may not even be a scalar type in actuality
+2020-06-15 18:15:34 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader - Coercing to be of type string. This may not even be a scalar type in actuality
+2020-06-15 18:15:34 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader - Coercing to be of type string. This may not even be a scalar type in actuality
+2020-06-15 18:15:34 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator - Generating unique operation named: loginUsingGET_1
+2020-06-15 18:15:34 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator - Generating unique operation named: pdeleteUsingPOST_1
+2020-06-15 18:15:34 [main] INFO  s.d.s.w.r.operation.CachingOperationNameGenerator - Generating unique operation named: uploadUsingGET_1
+2020-06-15 18:15:34 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-17777"]
+2020-06-15 18:15:34 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2020-06-15 18:15:35 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 17777 (http) with context path '/cdfyshow'
+2020-06-15 18:15:35 [main] INFO  com.wisesoft.cdfyshow.CdfyShowApplication - Started CdfyShowApplication in 70.245 seconds (JVM running for 89.775)
+2020-06-15 18:16:25 [http-nio-17777-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/cdfyshow] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-15 18:16:25 [http-nio-17777-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-15 18:16:25 [http-nio-17777-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 79 ms
+2020-06-15 18:17:28 [Thread-16] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,327 @@
+2020-04-26 10:36:00.655 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 10:36:06.922 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 10:36:13.100 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 10:36:13.134 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 10:36:15.217 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 10:36:17.226 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 10:36:17.977 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 10:36:26.328 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 10:36:28.870 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 10:36:30.096 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 10:36:30.479 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 38.673 seconds (JVM running for 49.931)
+2020-04-26 10:36:43.762 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 10:36:51.409 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 10:36:51.411 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 10:44:49.252 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 10:44:59.009 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 10:45:07.678 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 10:45:07.845 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 10:45:11.202 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 10:45:15.928 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 10:45:17.040 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 10:45:28.026 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 10:45:30.084 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 10:45:31.559 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 10:45:32.252 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 60.48 seconds (JVM running for 77.681)
+2020-04-26 10:45:47.756 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 10:45:55.534 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 10:45:55.538 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 10:47:48.508 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 10:48:01.093 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 10:48:13.860 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 10:48:13.951 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 10:48:17.415 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 10:48:19.972 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 10:48:20.806 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 10:48:31.860 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 10:48:33.987 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 10:48:35.159 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 10:48:35.941 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 63.906 seconds (JVM running for 84.363)
+2020-04-26 10:48:57.566 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 10:49:06.782 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 10:49:06.795 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 10:52:07.342 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 10:52:13.900 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 10:52:22.015 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 10:52:22.057 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 10:52:25.048 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 10:52:26.800 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 10:52:27.203 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 10:52:39.032 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 10:52:41.290 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 10:52:42.737 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 10:52:43.877 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 45.929 seconds (JVM running for 70.454)
+2020-04-26 10:52:56.275 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 10:53:07.442 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 10:53:07.446 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 10:58:54.645 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 10:59:03.436 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 10:59:10.854 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 10:59:10.881 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 10:59:14.209 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 10:59:16.958 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 10:59:17.672 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 10:59:29.545 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 10:59:31.716 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 10:59:32.236 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 10:59:33.647 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 51.608 seconds (JVM running for 64.334)
+2020-04-26 10:59:44.207 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 10:59:52.920 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 10:59:52.926 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 11:07:57.669 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 11:08:04.665 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 11:08:13.041 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 11:08:13.071 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 11:08:17.014 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 11:08:19.983 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 11:08:20.467 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 11:08:28.819 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 11:08:31.345 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 11:08:32.243 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 11:08:32.641 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 44.757 seconds (JVM running for 58.502)
+2020-04-26 11:08:42.417 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 11:11:36.835 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 11:11:36.837 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 11:39:15.474 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 11:39:21.915 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 11:39:28.038 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 11:39:28.101 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 11:39:31.804 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 11:39:34.545 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 11:39:35.188 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 11:39:45.692 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 11:39:48.030 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 11:39:49.302 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 11:39:51.155 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 45.212 seconds (JVM running for 58.249)
+2020-04-26 11:40:01.855 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 11:41:06.994 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 11:41:06.997 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 11:50:20.504 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 11:50:27.435 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 11:50:37.671 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 11:50:37.732 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 11:50:40.991 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 11:50:43.928 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 11:50:45.499 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 11:50:57.290 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 11:50:59.388 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 11:51:00.417 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 11:51:00.838 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 51.767 seconds (JVM running for 63.612)
+2020-04-26 11:51:13.232 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 11:51:29.539 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 11:51:29.544 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 12:31:03.213 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 12:31:12.679 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 12:31:21.196 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 12:31:21.223 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 12:31:24.551 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 12:31:28.973 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 12:31:29.527 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 12:31:40.346 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 12:31:43.029 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 12:31:43.649 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 12:31:44.113 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 59.203 seconds (JVM running for 69.426)
+2020-04-26 12:31:55.427 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 12:32:08.025 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 12:32:08.031 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 12:44:15.642 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 12:44:22.298 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 12:44:29.439 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 12:44:29.468 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 12:44:31.959 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 12:44:35.699 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 12:44:36.685 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 12:44:45.988 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 12:44:48.351 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 12:44:49.044 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 12:44:49.435 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 46.082 seconds (JVM running for 60.656)
+2020-04-26 12:45:02.763 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 12:52:04.952 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 12:52:04.954 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 12:53:27.179 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 12:53:33.822 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 12:53:39.787 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 12:53:39.822 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 12:53:42.918 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 12:53:45.472 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 12:53:46.402 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 12:53:56.416 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 12:53:58.652 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 12:53:59.653 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 12:54:00.194 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 49.109 seconds (JVM running for 66.831)
+2020-04-26 12:54:15.312 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 12:54:35.353 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 12:54:35.379 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 12:56:37.081 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 12:56:42.753 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=81e4be0d-b8bf-3a12-8687-f6f50cbd755a
+2020-04-26 12:56:49.063 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 12:56:49.100 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 12:56:51.178 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 12:56:53.677 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 12:56:54.584 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 12:57:02.961 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 12:57:04.990 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 12:57:05.509 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 12:57:05.853 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 38.964 seconds (JVM running for 49.103)
+2020-04-26 12:57:15.388 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 13:49:29.880 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 13:49:29.899 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 13:50:06.848 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 13:50:14.168 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 13:50:20.848 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 13:50:20.870 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 13:50:22.978 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 13:50:25.292 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 13:50:26.472 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 13:50:37.004 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 13:50:39.085 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 13:50:39.974 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 13:50:40.773 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 45.31 seconds (JVM running for 55.724)
+2020-04-26 13:50:51.568 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 13:52:15.436 wlz-config [main] INFO  com.wisesoft.wzl.config.handler.WifiSeleniumHandler --- 成功模拟登陆获取cookie:LOCAL_LANG_COOKIE=zh;UI_LOCAL_COOKIE=zh;
+2020-04-26 13:52:52.034 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 13:52:52.042 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:09:42.551 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 14:09:49.615 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 14:09:55.869 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:09:55.917 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:09:58.484 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:10:00.739 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 14:10:01.505 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 14:10:10.726 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:10:16.018 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:10:17.680 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 14:10:18.243 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 47.014 seconds (JVM running for 57.555)
+2020-04-26 14:10:27.466 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 14:11:04.171 wlz-config [main] INFO  com.wisesoft.wzl.config.handler.WifiSeleniumHandler --- 成功模拟登陆获取cookie:LOCAL_LANG_COOKIE=zh;UI_LOCAL_COOKIE=zh;
+2020-04-26 14:11:25.977 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 14:11:26.016 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:13:04.843 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 14:13:10.434 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 14:13:17.786 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:13:17.824 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:13:20.438 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:13:23.910 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 14:13:25.208 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 14:13:35.457 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:13:37.562 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:13:38.128 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 14:13:38.447 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 44.055 seconds (JVM running for 60.742)
+2020-04-26 14:13:47.908 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 14:15:19.984 wlz-config [main] INFO  com.wisesoft.wzl.config.handler.WifiSeleniumHandler --- 成功模拟登陆获取cookie:LOCAL_LANG_COOKIE=zh;UI_LOCAL_COOKIE=zh;
+2020-04-26 14:16:01.097 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 14:16:01.102 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:24:41.199 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 14:24:47.050 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 14:24:52.461 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:24:52.499 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:24:54.726 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:24:56.929 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 14:24:57.433 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 14:25:05.219 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:25:07.307 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:25:07.830 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 14:25:08.145 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 37.976 seconds (JVM running for 49.133)
+2020-04-26 14:25:15.950 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 14:26:08.163 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 14:26:08.165 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:31:18.213 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 14:31:23.974 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 14:31:31.824 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:31:31.853 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:31:36.145 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:31:41.125 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 14:31:41.888 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 14:31:51.871 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:31:54.899 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:31:55.790 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 14:31:56.433 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 51.993 seconds (JVM running for 64.207)
+2020-04-26 14:32:08.998 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 14:33:41.532 wlz-config [main] INFO  com.wisesoft.wzl.config.handler.WifiSeleniumHandler --- 成功模拟登陆获取cookie:
+2020-04-26 14:36:33.564 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 14:36:33.577 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:37:11.356 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 14:37:18.162 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 14:37:24.741 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:37:24.768 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:37:28.548 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:37:31.340 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 14:37:32.478 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 14:37:40.936 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:37:42.895 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:37:43.357 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 14:37:43.754 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 42.349 seconds (JVM running for 55.021)
+2020-04-26 14:37:53.687 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 14:38:38.414 wlz-config [main] INFO  com.wisesoft.wzl.config.handler.WifiSeleniumHandler --- 成功模拟登陆获取cookie:main_ui_cookie=dash_ap_list;LOCAL_LANG_COOKIE=zh;oid=1.3.6.1.4.1.4881.1.3.1.1.79;login=1;UI_LOCAL_COOKIE=zh;mac=5869.6c20.6ff6;SID=EE70330758178388906E448A848C106E;
+2020-04-26 14:44:13.659 wlz-config [main] INFO  com.wisesoft.wzl.config.handler.WifiSeleniumHandler --- 成功模拟登出
+2020-04-26 14:44:14.310 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 14:44:14.313 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:44:54.261 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 14:44:59.697 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 14:45:08.741 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:45:08.767 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:45:11.778 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:45:15.011 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 14:45:16.088 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 14:45:25.745 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:45:27.837 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:45:28.526 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 14:45:29.121 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 44.57 seconds (JVM running for 57.094)
+2020-04-26 14:47:01.745 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 14:47:01.759 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:47:38.944 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 14:47:45.237 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 14:47:53.323 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:47:53.370 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:47:56.485 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:47:59.432 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 14:48:00.200 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 14:48:10.044 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:48:12.159 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:48:13.969 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 14:48:14.404 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 45.401 seconds (JVM running for 56.476)
+2020-04-26 14:49:04.448 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 14:49:04.451 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:49:47.471 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 14:49:56.795 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 14:50:03.943 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:50:03.994 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:50:06.113 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:50:09.034 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 14:50:09.446 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 14:50:17.779 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:50:20.032 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:50:20.549 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 14:50:20.923 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 46.665 seconds (JVM running for 61.361)
+2020-04-26 14:54:52.670 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 14:54:52.672 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:55:45.103 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 14:55:51.005 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 14:55:59.223 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:55:59.245 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 14:56:02.207 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 14:56:05.326 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 14:56:06.547 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 14:56:16.273 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:56:18.587 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 14:56:19.275 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 14:56:20.036 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 44.92 seconds (JVM running for 67.111)
+2020-04-26 14:56:29.808 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 14:56:39.744 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 14:56:39.748 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-26 15:01:49.862 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- No active profile set, falling back to default profiles: default
+2020-04-26 15:01:55.861 wlz-config [main] INFO  org.springframework.cloud.context.scope.GenericScope --- BeanFactory id=c8a36278-2123-3548-828d-7d09565362fe
+2020-04-26 15:02:02.808 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 15:02:02.865 wlz-config [main] INFO  com.netflix.config.sources.URLConfigurationSource --- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 15:02:07.205 wlz-config [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 15:02:10.273 wlz-config [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure --- Init DruidDataSource
+2020-04-26 15:02:11.046 wlz-config [main] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} inited
+2020-04-26 15:02:21.223 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 15:02:23.590 wlz-config [main] INFO  org.springframework.cloud.commons.util.InetUtils --- Cannot determine local hostname
+2020-04-26 15:02:24.057 wlz-config [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver --- Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-26 15:02:24.399 wlz-config [main] INFO  com.wisesoft.wzl.config.WzlConfigApplicationTests --- Started WzlConfigApplicationTests in 44.547 seconds (JVM running for 57.095)
+2020-04-26 15:02:35.103 wlz-config [Forwarding newSession on session null to remote] INFO  org.openqa.selenium.remote.ProtocolHandshake --- Detected dialect: OSS
+2020-04-26 15:02:59.258 wlz-config [main] INFO  com.wisesoft.wzl.config.handler.WifiSeleniumHandler --- 成功模拟登陆获取cookie:main_ui_cookie=dash_ap_list; LOCAL_LANG_COOKIE=zh; oid=1.3.6.1.4.1.4881.1.3.1.1.79; login=1; UI_LOCAL_COOKIE=zh; mac=5869.6c20.6ff6; SID=EF0EBE3179FF71D4461CC5BB9AEB9DB2
+2020-04-26 15:03:05.871 wlz-config [main] INFO  com.wisesoft.wzl.config.handler.WifiSeleniumHandler --- 成功模拟登出
+2020-04-26 15:03:08.401 wlz-config [SpringContextShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource --- {dataSource-1} closed
+2020-04-26 15:03:08.411 wlz-config [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor --- Shutting down ExecutorService 'applicationTaskExecutor'

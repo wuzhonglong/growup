@@ -1,0 +1,1 @@
+2020-04-15 08:49:37.402 wlz-config [main] ERROR com.alibaba.druid.pool.DruidDataSource --- testWhileIdle is true, validationQuery not set

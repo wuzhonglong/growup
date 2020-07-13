@@ -1,0 +1,27 @@
+#wifi:
+#  server: http://221.7.105.6:1002/
+
+
+
+
+
+
+spring:
+  profiles:
+    active: dev
+
+param:
+  user:
+    name: wzl
+    password: agony123456
+
+
+sms:
+  # 短信接口测试地址
+  url: https://service-m2l1f020-1257188045.gz.apigw.tencentcs.com/service/messages/msg-app/api/no/sms/create
+  # 短信服务接口网管鉴权密钥对
+  gateway:
+    secretId: AKIDe8zqecmuu74w7coltp5rkitxd9a941txs96l
+    secretKey: Hb88juqkr65YU6k8Mc671P7vCGxEdw3w5M5FIv7f
+  # 短信模板ID
+  templateId: 592396

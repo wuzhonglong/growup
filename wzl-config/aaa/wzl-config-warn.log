@@ -1,0 +1,92 @@
+2020-04-26 10:36:06.485 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 10:36:13.081 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 10:36:13.099 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 10:36:13.134 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 10:44:58.220 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 10:45:07.593 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 10:45:07.677 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 10:45:07.844 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 10:48:00.316 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 10:48:13.794 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 10:48:13.859 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 10:48:13.951 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 10:52:13.528 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 10:52:21.996 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 10:52:22.014 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 10:52:22.056 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 10:59:02.810 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 10:59:10.820 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 10:59:10.853 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 10:59:10.879 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 11:08:04.311 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 11:08:13.023 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 11:08:13.037 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 11:08:13.070 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 11:39:21.432 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 11:39:28.021 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 11:39:28.037 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 11:39:28.100 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 11:50:27.058 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 11:50:37.648 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 11:50:37.670 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 11:50:37.731 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 12:31:12.043 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 12:31:21.153 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 12:31:21.195 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 12:31:21.222 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 12:44:21.928 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 12:44:29.422 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 12:44:29.438 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 12:44:29.467 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 12:53:33.369 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 12:53:39.765 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 12:53:39.786 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 12:53:39.821 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 12:56:42.314 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 12:56:49.045 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 12:56:49.062 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 12:56:49.099 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 13:50:13.650 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 13:50:20.815 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 13:50:20.847 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 13:50:20.870 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:09:49.254 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 14:09:55.841 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 14:09:55.868 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:09:55.916 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:13:10.097 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 14:13:17.732 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 14:13:17.786 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:13:17.824 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:24:46.651 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 14:24:52.438 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 14:24:52.460 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:24:52.498 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:31:23.616 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 14:31:31.802 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 14:31:31.822 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:31:31.853 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:37:17.270 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 14:37:24.704 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 14:37:24.740 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:37:24.767 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:44:59.325 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 14:45:08.528 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 14:45:08.740 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:45:08.766 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:47:44.696 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 14:47:53.263 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 14:47:53.321 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:47:53.369 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:49:55.722 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 14:50:03.927 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 14:50:03.942 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:50:03.994 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:55:50.603 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 14:55:59.207 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 14:55:59.222 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 14:55:59.244 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 15:01:55.460 wlz-config [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner --- No MyBatis mapper was found in '[com.wisesoft.wzl.config]' package. Please check your configuration.
+2020-04-26 15:02:02.760 wlz-config [main] WARN  org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration --- No spring.application.name found, defaulting to 'application'
+2020-04-26 15:02:02.807 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
+2020-04-26 15:02:02.864 wlz-config [main] WARN  com.netflix.config.sources.URLConfigurationSource --- No URLs will be polled as dynamic configuration sources.
