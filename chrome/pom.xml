@@ -90,7 +90,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.34</version>
+            <version>1.2.83</version>
         </dependency>
         <!--里面由很多工具 包括xml json之类的处理json优先考虑使用这个 不用fastjson-->
         <dependency>
